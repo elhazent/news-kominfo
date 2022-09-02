@@ -1,0 +1,4 @@
+#Thu Sep 01 22:44:13 WIB 2022
+base.0=/Users/elhazent/Documents/QERJA/berita/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
